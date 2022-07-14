@@ -3,7 +3,7 @@
 # 完成的功能模块有
 
 ## 终端命令行演示模块
-可通过预置命令，实现在终端中做到类似于shell功能。如下图所示，在终端中输入的命令为 `mem` 表示获得系统的物理内存空间大小。
+可通过预置命令，实现在终端实现类似shell功能。如下图所示，在终端中输入的命令为 `mem` 表示获得系统的物理内存空间大小。
 
 ![image](https://github.com/Buildings-Lei/Small-operating-system-/blob/main/images/mem.gif)
 
